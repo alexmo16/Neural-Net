@@ -1,4 +1,3 @@
-// Neural-Net-Tutorial.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Authors: alexmo16, Dave Miller
 
 #include "pch.h"
